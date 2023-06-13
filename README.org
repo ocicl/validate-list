@@ -1,0 +1,10 @@
+* validate-list
+
+Check if a list fulfills a specified template
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/K1D77A/validate-list.git   |
+| commit  | 223b894  |
+| systems | validate-list |
+|---------+-------------------------------------------|
+
