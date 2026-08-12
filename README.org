@@ -8,4 +8,4 @@ Check if a list fulfills a specified template
 | systems | validate-list |
 |---------+-------------------------------------------|
 
- 
+  
